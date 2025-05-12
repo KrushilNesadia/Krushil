@@ -1,0 +1,15 @@
+globalsourcepro/
+├── index.html
+├── about.html
+├── services.html
+├── industries.html
+├── contact.html
+├── blog.html
+├── privacy.html
+├── terms.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── images/
+└── README.md
